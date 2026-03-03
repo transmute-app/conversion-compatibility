@@ -1,0 +1,6397 @@
+[
+    {
+        "converter_name": "DrawioConverter",
+        "input_format": "drawio",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "DrawioConverter",
+        "input_format": "drawio",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "DrawioConverter",
+        "input_format": "drawio",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "DrawioConverter",
+        "input_format": "drawio",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "gif",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpg",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mov"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "f4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mp4"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "webm"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "wmv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "ts"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "m4v"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "asf"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "3gp"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "ogv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mkv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mpeg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mpg"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "flv"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "avi"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "json",
+        "output_format": "csv"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "json",
+        "output_format": "xlsx"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "json",
+        "output_format": "parquet"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "json",
+        "output_format": "yaml"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "csv",
+        "output_format": "json"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "csv",
+        "output_format": "xlsx"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "csv",
+        "output_format": "parquet"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "csv",
+        "output_format": "yaml"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "xlsx",
+        "output_format": "json"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "xlsx",
+        "output_format": "csv"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "xlsx",
+        "output_format": "parquet"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "xlsx",
+        "output_format": "yaml"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "parquet",
+        "output_format": "json"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "parquet",
+        "output_format": "csv"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "parquet",
+        "output_format": "xlsx"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "parquet",
+        "output_format": "yaml"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "yaml",
+        "output_format": "json"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "yaml",
+        "output_format": "csv"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "yaml",
+        "output_format": "xlsx"
+    },
+    {
+        "converter_name": "PandasConverter",
+        "input_format": "yaml",
+        "output_format": "parquet"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "png",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pbm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "webp",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tiff",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "svg",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "sgi",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "bmp",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tga",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jpeg",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "jp2",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ppm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "ico",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "heic",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "gif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pgm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "pcx"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "tif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "pbm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "tiff"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "heif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "sgi"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "bmp"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "tga"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "jp2"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "ppm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "ico"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "heic"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "pgm"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "tif"
+    },
+    {
+        "converter_name": "PillowConverter",
+        "input_format": "pcx",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "textile",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "dbk",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "mediawiki",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "ipynb",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "odt",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "muse",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "docx",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "txt",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "epub",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "latex",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "fb2",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "md",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rst",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "opml",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "html",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "tex",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "rtf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "org",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "rtf",
+        "output_format": "asciidoc"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "textile"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "dbk"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "mediawiki"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "ipynb"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "odt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "muse"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "latex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "rst"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "opml"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "jira"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "pptx"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "org"
+    },
+    {
+        "converter_name": "PyPandocConverter",
+        "input_format": "asciidoc",
+        "output_format": "rtf"
+    }
+]
