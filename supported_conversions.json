@@ -490,6 +490,206 @@
         "output_format": "snb"
     },
     {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "snb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "snb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "snb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "snb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "snb"
+    },
+    {
         "converter_name": "DrawioConverter",
         "input_format": "drawio",
         "output_format": "jpeg"
@@ -3875,6 +4075,31 @@
         "output_format": "txt"
     },
     {
+        "converter_name": "OCRmyPDFConverter",
+        "input_format": "pdf",
+        "output_format": "pdf/a"
+    },
+    {
+        "converter_name": "OCRmyPDFConverter",
+        "input_format": "pdf/e",
+        "output_format": "pdf/a"
+    },
+    {
+        "converter_name": "OCRmyPDFConverter",
+        "input_format": "pdf/ua",
+        "output_format": "pdf/a"
+    },
+    {
+        "converter_name": "OCRmyPDFConverter",
+        "input_format": "pdf/vt",
+        "output_format": "pdf/a"
+    },
+    {
+        "converter_name": "OCRmyPDFConverter",
+        "input_format": "pdf/x",
+        "output_format": "pdf/a"
+    },
+    {
         "converter_name": "PandasConverter",
         "input_format": "csv",
         "output_format": "env"
@@ -11342,6 +11567,81 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/a",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/a",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/a",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/e",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/e",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/e",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/ua",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/ua",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/ua",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/vt",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/vt",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/vt",
+        "output_format": "txt"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/x",
+        "output_format": "html"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/x",
+        "output_format": "md"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/x",
         "output_format": "txt"
     },
     {
