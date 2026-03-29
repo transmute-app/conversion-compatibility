@@ -13478,5 +13478,15 @@
         "converter_name": "PySubs2Converter",
         "input_format": "vtt",
         "output_format": "tmp"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "eps",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svg",
+        "output_format": "eps"
     }
 ]
