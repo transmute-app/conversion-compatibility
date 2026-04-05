@@ -245,6 +245,61 @@
         "output_format": "tar.zst"
     },
     {
+        "converter_name": "CBZConverter",
+        "input_format": "cb7",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "cb7",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "cbr",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "cbr",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "cbz",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf/a",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf/e",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf/ua",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf/vt",
+        "output_format": "cbz"
+    },
+    {
+        "converter_name": "CBZConverter",
+        "input_format": "pdf/x",
+        "output_format": "cbz"
+    },
+    {
         "converter_name": "CalibreConverter",
         "input_format": "azw3",
         "output_format": "epub"
