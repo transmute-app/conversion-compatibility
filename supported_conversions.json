@@ -4155,6 +4155,11 @@
         "output_format": "pdf/a"
     },
     {
+        "converter_name": "PKCS7Converter",
+        "input_format": "p7m",
+        "output_format": "unsigned"
+    },
+    {
         "converter_name": "PandasConverter",
         "input_format": "csv",
         "output_format": "env"
