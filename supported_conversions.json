@@ -11707,11 +11707,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "adoc",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "adoc",
         "output_format": "docx"
     },
     {
@@ -11733,11 +11728,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "adoc",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "adoc",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -11796,103 +11786,8 @@
     },
     {
         "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "adoc"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "docx"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "epub"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "html"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "ipynb"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "mediawiki"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "muse"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "odt"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "opml"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "org"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "pdf"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "pptx"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "rst"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "rtf"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "tex"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "textile"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "dbk",
-        "output_format": "txt"
-    },
-    {
-        "converter_name": "PyPandocConverter",
         "input_format": "docx",
         "output_format": "adoc"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "docx",
-        "output_format": "dbk"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -11913,11 +11808,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "docx",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "docx",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -11982,11 +11872,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "epub",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "epub",
         "output_format": "docx"
     },
     {
@@ -12003,11 +11888,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "epub",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "epub",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12072,11 +11952,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "fb2",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "fb2",
         "output_format": "docx"
     },
     {
@@ -12098,11 +11973,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "fb2",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "fb2",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12167,11 +12037,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "html",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "html",
         "output_format": "docx"
     },
     {
@@ -12188,11 +12053,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "html",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "html",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12257,11 +12117,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "ipynb",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "ipynb",
         "output_format": "docx"
     },
     {
@@ -12278,11 +12133,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "ipynb",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "ipynb",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12347,11 +12197,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "md",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "md",
         "output_format": "docx"
     },
     {
@@ -12368,11 +12213,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "md",
         "output_format": "ipynb"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "md",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12427,107 +12267,12 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "md",
-        "output_format": "txt"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "adoc"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "docx"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "epub"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "html"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "ipynb"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "muse"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "odt"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "opml"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "org"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "pdf"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "pptx"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "rst"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "rtf"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "tex"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
-        "output_format": "textile"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "mediawiki",
         "output_format": "txt"
     },
     {
         "converter_name": "PyPandocConverter",
         "input_format": "muse",
         "output_format": "adoc"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "muse",
-        "output_format": "dbk"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12553,11 +12298,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "muse",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "muse",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12617,11 +12357,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "odt",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "odt",
         "output_format": "docx"
     },
     {
@@ -12643,11 +12378,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "odt",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "odt",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12707,11 +12437,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "opml",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "opml",
         "output_format": "docx"
     },
     {
@@ -12733,11 +12458,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "opml",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "opml",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12797,11 +12517,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "org",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "org",
         "output_format": "docx"
     },
     {
@@ -12823,11 +12538,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "org",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "org",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12887,11 +12597,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "rst",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "rst",
         "output_format": "docx"
     },
     {
@@ -12913,11 +12618,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "rst",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "rst",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -12977,11 +12677,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "rtf",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "rtf",
         "output_format": "docx"
     },
     {
@@ -13003,11 +12698,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "rtf",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "rtf",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -13067,11 +12757,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "tex",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "tex",
         "output_format": "docx"
     },
     {
@@ -13093,11 +12778,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "tex",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "tex",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -13157,11 +12837,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "textile",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "textile",
         "output_format": "docx"
     },
     {
@@ -13183,11 +12858,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "textile",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "textile",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -13247,11 +12917,6 @@
     {
         "converter_name": "PyPandocConverter",
         "input_format": "txt",
-        "output_format": "dbk"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "txt",
         "output_format": "docx"
     },
     {
@@ -13273,11 +12938,6 @@
         "converter_name": "PyPandocConverter",
         "input_format": "txt",
         "output_format": "md"
-    },
-    {
-        "converter_name": "PyPandocConverter",
-        "input_format": "txt",
-        "output_format": "mediawiki"
     },
     {
         "converter_name": "PyPandocConverter",
@@ -13352,11 +13012,6 @@
     {
         "converter_name": "PySubs2Converter",
         "input_format": "ass",
-        "output_format": "tmp"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "ass",
         "output_format": "vtt"
     },
     {
@@ -13378,11 +13033,6 @@
         "converter_name": "PySubs2Converter",
         "input_format": "mpl",
         "output_format": "sub"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "mpl",
-        "output_format": "tmp"
     },
     {
         "converter_name": "PySubs2Converter",
@@ -13412,11 +13062,6 @@
     {
         "converter_name": "PySubs2Converter",
         "input_format": "srt",
-        "output_format": "tmp"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "srt",
         "output_format": "vtt"
     },
     {
@@ -13438,11 +13083,6 @@
         "converter_name": "PySubs2Converter",
         "input_format": "ssa",
         "output_format": "sub"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "ssa",
-        "output_format": "tmp"
     },
     {
         "converter_name": "PySubs2Converter",
@@ -13472,41 +13112,6 @@
     {
         "converter_name": "PySubs2Converter",
         "input_format": "sub",
-        "output_format": "tmp"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "sub",
-        "output_format": "vtt"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
-        "output_format": "ass"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
-        "output_format": "mpl"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
-        "output_format": "srt"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
-        "output_format": "ssa"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
-        "output_format": "sub"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "tmp",
         "output_format": "vtt"
     },
     {
@@ -13533,11 +13138,6 @@
         "converter_name": "PySubs2Converter",
         "input_format": "vtt",
         "output_format": "sub"
-    },
-    {
-        "converter_name": "PySubs2Converter",
-        "input_format": "vtt",
-        "output_format": "tmp"
     },
     {
         "converter_name": "VectorConverter",
