@@ -13140,6 +13140,36 @@
         "output_format": "sub"
     },
     {
+        "converter_name": "RenameConverter",
+        "input_format": "7z",
+        "output_format": "cb7"
+    },
+    {
+        "converter_name": "RenameConverter",
+        "input_format": "cb7",
+        "output_format": "7z"
+    },
+    {
+        "converter_name": "RenameConverter",
+        "input_format": "cbr",
+        "output_format": "rar"
+    },
+    {
+        "converter_name": "RenameConverter",
+        "input_format": "cbz",
+        "output_format": "zip"
+    },
+    {
+        "converter_name": "RenameConverter",
+        "input_format": "rar",
+        "output_format": "cbr"
+    },
+    {
+        "converter_name": "RenameConverter",
+        "input_format": "zip",
+        "output_format": "cbz"
+    },
+    {
         "converter_name": "VectorConverter",
         "input_format": "eps",
         "output_format": "svg"
