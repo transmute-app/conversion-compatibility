@@ -13710,6 +13710,26 @@
         "output_format": "cbz"
     },
     {
+        "converter_name": "TGSConverter",
+        "input_format": "tgs",
+        "output_format": "apng"
+    },
+    {
+        "converter_name": "TGSConverter",
+        "input_format": "tgs",
+        "output_format": "gif"
+    },
+    {
+        "converter_name": "TGSConverter",
+        "input_format": "tgs",
+        "output_format": "json"
+    },
+    {
+        "converter_name": "TGSConverter",
+        "input_format": "tgs",
+        "output_format": "webp"
+    },
+    {
         "converter_name": "VectorConverter",
         "input_format": "eps",
         "output_format": "svg"
