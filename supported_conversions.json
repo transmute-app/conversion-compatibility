@@ -3785,6 +3785,11 @@
         "output_format": "woff"
     },
     {
+        "converter_name": "KepubifyConverter",
+        "input_format": "epub",
+        "output_format": "kepub"
+    },
+    {
         "converter_name": "LibreOfficeConverter",
         "input_format": "key",
         "output_format": "html"
