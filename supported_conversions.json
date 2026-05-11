@@ -3256,6 +3256,66 @@
     },
     {
         "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
         "input_format": "opus",
         "output_format": "aac"
     },
