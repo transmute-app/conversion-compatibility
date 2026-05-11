@@ -312,6 +312,11 @@
     {
         "converter_name": "CalibreConverter",
         "input_format": "azw3",
+        "output_format": "kepub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "azw3",
         "output_format": "lrf"
     },
     {
@@ -343,6 +348,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "epub",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "epub",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -382,6 +392,11 @@
     {
         "converter_name": "CalibreConverter",
         "input_format": "fb2",
+        "output_format": "kepub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "fb2",
         "output_format": "lrf"
     },
     {
@@ -406,6 +421,46 @@
     },
     {
         "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "azw3"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "epub"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "lrf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "mobi"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "pdb"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "kepub",
+        "output_format": "snb"
+    },
+    {
+        "converter_name": "CalibreConverter",
         "input_format": "lrf",
         "output_format": "azw3"
     },
@@ -418,6 +473,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "lrf",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "lrf",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -453,6 +513,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "mobi",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "mobi",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -488,6 +553,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdb",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdb",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -523,6 +593,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -558,6 +633,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/a",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/a",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -598,6 +678,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/e",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/e",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -638,6 +723,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/ua",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/ua",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -678,6 +768,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/vt",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/vt",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -718,6 +813,11 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/x",
         "output_format": "fb2"
+    },
+    {
+        "converter_name": "CalibreConverter",
+        "input_format": "pdf/x",
+        "output_format": "kepub"
     },
     {
         "converter_name": "CalibreConverter",
@@ -3783,11 +3883,6 @@
         "converter_name": "FonttoolsConverter",
         "input_format": "woff2",
         "output_format": "woff"
-    },
-    {
-        "converter_name": "KepubifyConverter",
-        "input_format": "epub",
-        "output_format": "kepub"
     },
     {
         "converter_name": "LibreOfficeConverter",
