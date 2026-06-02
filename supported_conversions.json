@@ -4375,6 +4375,36 @@
         "output_format": "pdf/a"
     },
     {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf/a",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf/e",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf/ua",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf/vt",
+        "output_format": "docx"
+    },
+    {
+        "converter_name": "PDF2DOCXConverter",
+        "input_format": "pdf/x",
+        "output_format": "docx"
+    },
+    {
         "converter_name": "PKCS7Converter",
         "input_format": "p7m",
         "output_format": "unsigned"
