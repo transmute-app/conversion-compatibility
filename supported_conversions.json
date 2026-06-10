@@ -657,11 +657,6 @@
     {
         "converter_name": "CalibreConverter",
         "input_format": "pdf/a",
-        "output_format": "pdf"
-    },
-    {
-        "converter_name": "CalibreConverter",
-        "input_format": "pdf/a",
         "output_format": "snb"
     },
     {
@@ -698,11 +693,6 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/e",
         "output_format": "pdb"
-    },
-    {
-        "converter_name": "CalibreConverter",
-        "input_format": "pdf/e",
-        "output_format": "pdf"
     },
     {
         "converter_name": "CalibreConverter",
@@ -747,11 +737,6 @@
     {
         "converter_name": "CalibreConverter",
         "input_format": "pdf/ua",
-        "output_format": "pdf"
-    },
-    {
-        "converter_name": "CalibreConverter",
-        "input_format": "pdf/ua",
         "output_format": "snb"
     },
     {
@@ -792,11 +777,6 @@
     {
         "converter_name": "CalibreConverter",
         "input_format": "pdf/vt",
-        "output_format": "pdf"
-    },
-    {
-        "converter_name": "CalibreConverter",
-        "input_format": "pdf/vt",
         "output_format": "snb"
     },
     {
@@ -833,11 +813,6 @@
         "converter_name": "CalibreConverter",
         "input_format": "pdf/x",
         "output_format": "pdb"
-    },
-    {
-        "converter_name": "CalibreConverter",
-        "input_format": "pdf/x",
-        "output_format": "pdf"
     },
     {
         "converter_name": "CalibreConverter",
@@ -11866,6 +11841,66 @@
     },
     {
         "converter_name": "PyMuPDFConverter",
+        "input_format": "avif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "bmp",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "dib",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "gif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "heic",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "heif",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "ico",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "jp2",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "jpeg",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "jxl",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pbm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pcx",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
         "input_format": "pdf",
         "output_format": "avif"
     },
@@ -12032,6 +12067,11 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/a",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/a",
         "output_format": "pgm"
     },
     {
@@ -12137,6 +12177,11 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/e",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/e",
         "output_format": "pgm"
     },
     {
@@ -12242,6 +12287,11 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/ua",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/ua",
         "output_format": "pgm"
     },
     {
@@ -12347,6 +12397,11 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/vt",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/vt",
         "output_format": "pgm"
     },
     {
@@ -12452,6 +12507,11 @@
     {
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/x",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pdf/x",
         "output_format": "pgm"
     },
     {
@@ -12493,6 +12553,46 @@
         "converter_name": "PyMuPDFConverter",
         "input_format": "pdf/x",
         "output_format": "webp"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pgm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "png",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "pnm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "ppm",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "sgi",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "tga",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "tiff",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "PyMuPDFConverter",
+        "input_format": "webp",
+        "output_format": "pdf"
     },
     {
         "converter_name": "PyPandocConverter",
