@@ -14081,12 +14081,102 @@
     },
     {
         "converter_name": "VectorConverter",
+        "input_format": "emf",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "emf",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "emf",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "emf",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "eps",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
         "input_format": "eps",
         "output_format": "svg"
     },
     {
         "converter_name": "VectorConverter",
+        "input_format": "eps",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "eps",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svg",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
         "input_format": "svg",
         "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svg",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svg",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svgz",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svgz",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svgz",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "svgz",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "wmf",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "wmf",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "wmf",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "wmf",
+        "output_format": "svgz"
     }
 ]
