@@ -940,6 +940,21 @@
         "output_format": "txt"
     },
     {
+        "converter_name": "EzdxfConverter",
+        "input_format": "dxf",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "EzdxfConverter",
+        "input_format": "dxf",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "EzdxfConverter",
+        "input_format": "dxf",
+        "output_format": "svg"
+    },
+    {
         "converter_name": "FFmpegConverter",
         "input_format": "3gp",
         "output_format": "aac"
@@ -4323,6 +4338,96 @@
         "converter_name": "LibreOfficeConverter",
         "input_format": "pptx",
         "output_format": "txt"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "3mf",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "3mf",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "3mf",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "glb",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "glb",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "glb",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "obj",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "obj",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "obj",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "off",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "off",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "off",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "ply",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "ply",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "ply",
+        "output_format": "webp"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "stl",
+        "output_format": "jpeg"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "stl",
+        "output_format": "png"
+    },
+    {
+        "converter_name": "MeshRenderConverter",
+        "input_format": "stl",
+        "output_format": "webp"
     },
     {
         "converter_name": "OCRmyPDFConverter",
@@ -14078,6 +14183,131 @@
         "converter_name": "TGSConverter",
         "input_format": "tgs",
         "output_format": "webp"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "3mf",
+        "output_format": "glb"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "3mf",
+        "output_format": "obj"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "3mf",
+        "output_format": "off"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "3mf",
+        "output_format": "ply"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "3mf",
+        "output_format": "stl"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "glb",
+        "output_format": "obj"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "glb",
+        "output_format": "off"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "glb",
+        "output_format": "ply"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "glb",
+        "output_format": "stl"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "obj",
+        "output_format": "glb"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "obj",
+        "output_format": "off"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "obj",
+        "output_format": "ply"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "obj",
+        "output_format": "stl"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "off",
+        "output_format": "glb"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "off",
+        "output_format": "obj"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "off",
+        "output_format": "ply"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "off",
+        "output_format": "stl"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "ply",
+        "output_format": "glb"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "ply",
+        "output_format": "obj"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "ply",
+        "output_format": "off"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "ply",
+        "output_format": "stl"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "stl",
+        "output_format": "glb"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "stl",
+        "output_format": "obj"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "stl",
+        "output_format": "off"
+    },
+    {
+        "converter_name": "TrimeshConverter",
+        "input_format": "stl",
+        "output_format": "ply"
     },
     {
         "converter_name": "VectorConverter",
