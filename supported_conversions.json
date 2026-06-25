@@ -14311,6 +14311,126 @@
     },
     {
         "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "odg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "ai",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "odg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdr",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "odg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "cdt",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
         "input_format": "emf",
         "output_format": "eps"
     },
@@ -14482,6 +14602,46 @@
     {
         "converter_name": "VectorConverter",
         "input_format": "svgz",
+        "output_format": "wmf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "emf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "eps"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "odg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "pdf"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "svg"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "svgz"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
+        "output_format": "tex"
+    },
+    {
+        "converter_name": "VectorConverter",
+        "input_format": "vsdx",
         "output_format": "wmf"
     },
     {
