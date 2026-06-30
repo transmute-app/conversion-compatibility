@@ -1012,6 +1012,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "3gp",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "3gp",
         "output_format": "m4v"
     },
     {
@@ -1117,6 +1122,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "aa3",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aa3",
         "output_format": "mka"
     },
     {
@@ -1168,6 +1178,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "aac",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aac",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -1227,6 +1242,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "ac3",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ac3",
         "output_format": "mka"
     },
     {
@@ -1278,6 +1298,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "aiff",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "aiff",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -1447,6 +1472,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "asf",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "asf",
         "output_format": "m4v"
     },
     {
@@ -1582,6 +1612,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "avi",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "avi",
         "output_format": "m4v"
     },
     {
@@ -1717,6 +1752,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "f4v",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "f4v",
         "output_format": "m4v"
     },
     {
@@ -1813,6 +1853,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "flac",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flac",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -2063,6 +2108,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "flv",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "flv",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -2242,6 +2292,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "m4a",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4a",
         "output_format": "mka"
     },
     {
@@ -2276,6 +2331,66 @@
     },
     {
         "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "aac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "ac3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "aiff"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "flac"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "mka"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "mp2"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "mp3"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "oga"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "opus"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "wav"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4b",
+        "output_format": "wma"
+    },
+    {
+        "converter_name": "FFmpegConverter",
         "input_format": "m4v",
         "output_format": "3gp"
     },
@@ -2333,6 +2448,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "m4v",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "m4v",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -2437,6 +2557,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "mka",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mka",
         "output_format": "mp2"
     },
     {
@@ -2523,6 +2648,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "mkv",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mkv",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -2662,6 +2792,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "mov",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mov",
         "output_format": "m4v"
     },
     {
@@ -2762,6 +2897,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "mp2",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp2",
         "output_format": "mka"
     },
     {
@@ -2813,6 +2953,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "mp3",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp3",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -2903,6 +3048,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "mp4",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mp4",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -3042,6 +3192,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "mpeg",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "mpeg",
         "output_format": "m4v"
     },
     {
@@ -3142,6 +3297,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "oga",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oga",
         "output_format": "mka"
     },
     {
@@ -3228,6 +3388,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "ogv",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ogv",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -3332,6 +3497,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "oma",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "oma",
         "output_format": "mka"
     },
     {
@@ -3388,6 +3558,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "opus",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "opus",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -3478,6 +3653,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "ts",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "ts",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -3582,6 +3762,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "wav",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wav",
         "output_format": "mka"
     },
     {
@@ -3668,6 +3853,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "webm",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "webm",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
@@ -3772,6 +3962,11 @@
     {
         "converter_name": "FFmpegConverter",
         "input_format": "wma",
+        "output_format": "m4b"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wma",
         "output_format": "mka"
     },
     {
@@ -3858,6 +4053,11 @@
         "converter_name": "FFmpegConverter",
         "input_format": "wmv",
         "output_format": "m4a"
+    },
+    {
+        "converter_name": "FFmpegConverter",
+        "input_format": "wmv",
+        "output_format": "m4b"
     },
     {
         "converter_name": "FFmpegConverter",
